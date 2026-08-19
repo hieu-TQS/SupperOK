@@ -93,9 +93,6 @@ A: Có. Super OK hỗ trợ cả giao diện điện thoại (chọn lần đầ
 ### Q: Tôi có thể thêm nguồn phim / playlist của riêng mình không?
 A: Có. Playlist IPTV: thêm URL M3U hoặc file cục bộ trong Cài đặt. Nguồn phim: thêm plugin JS vào thư mục plugin của app.
 
-## Quyền riêng tư
-
-Xem [PRIVACY.md](./PRIVACY.md) — bản F-Droid không chứa mã theo dõi, không telemetry, không cập nhật tự động.
 
 ## Giấy phép
 

@@ -1,11 +1,5 @@
-[<img src="images/badge_fdroid.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/app.smarttube.fdroid/)
-[<img src="images/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/)
 
 # Super OK
-
-<img src="images/app_icon.png" alt="logo" width="100"/>
-
-![The app screenshot](./images/browse_home.png)
 
 **Super OK** là ứng dụng media client mã nguồn mở dành cho **Android TV / TV Box** và **Điện thoại / Máy tính bảng** (Android 5.0+). Ứng dụng gộp nhiều kho nội dung vào một giao diện duy nhất:
 

@@ -1,8 +1,5 @@
 # Super OK
-
 <img src="https://avatars.githubusercontent.com/u/250842655?s=400&u=0b819e954badf8daf36d926e58c27faafaaac9aa&v=4" alt="logo" width="100"/>
-
-![The app screenshot](./images/browse_home.png)
 
 **Super OK** là ứng dụng media client mã nguồn mở dành cho **Android TV / TV Box** và **Điện thoại / Máy tính bảng** (Android 5.0+). Ứng dụng gộp nhiều kho nội dung vào một giao diện duy nhất:
 
